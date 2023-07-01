@@ -1,3 +1,4 @@
+#Node pipelines can be built with either windows or linux agents
 trigger:
 - main
 
